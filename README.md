@@ -11,4 +11,4 @@
 
   ![Import Project](https://github.com/najoan125/Seamless-Transitions-Guide/blob/main/1.png?raw=true)
  
- 5. 원하는 트렌지션을 편집할 시퀀스에 드레그 하여 적용한다(단, 아래와 같이 **왼쪽 V1**은  비활성화 되어있어야 함)
+ 5. 원하는 트렌지션을 편집할 시퀀스에 드레그 하여 적용한다(단, 아래와 같이 **왼쪽 V1**만  비활성화 되어있어야 함)
